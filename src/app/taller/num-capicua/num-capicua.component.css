@@ -1,0 +1,30 @@
+h1 {
+   text-align: center;
+   color: rgb(238, 165, 29);
+   text-transform: uppercase;
+}
+
+h2 {
+   text-align: center;
+   color: rgb(37, 37, 233);
+}
+
+
+input {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: red;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+}
